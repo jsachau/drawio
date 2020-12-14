@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T16:47:08.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="1oFniqSxgGGYSovPRr5l" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T16:49:34.997Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="HVQnGy3BHB-oCyBCzNYq" version="14.0.0" type="github">
   <diagram id="kuCDYOujMkA-HMSyn4VC" name="Page-1">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
         <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-33" value="Mapping &lt;i&gt;Blutdruck&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="460" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-34" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#36393d;fillColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-34" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#36393d;fillColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="660" y="450" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
