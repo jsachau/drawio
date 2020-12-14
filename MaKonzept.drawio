@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T16:23:13.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="sYBF_L4jJy36O2CwPNEM" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T16:47:08.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="1oFniqSxgGGYSovPRr5l" version="14.0.0" type="github">
   <diagram id="kuCDYOujMkA-HMSyn4VC" name="Page-1">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,11 +107,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-24" value="&lt;b&gt;1. Extraktion und Einlesen der Daten (Extraktionskomponente)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="30" width="370" height="20" as="geometry" />
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1. Extraktion und Einlesen der Daten (Extraktionskomponente)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="430" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-27" value="&lt;b&gt;2. Darstellung und Administration der Daten&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="360" width="270" height="20" as="geometry" />
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;2. Darstellung und Administration der Daten&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-28" value="Code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="90" width="40" height="20" as="geometry" />
