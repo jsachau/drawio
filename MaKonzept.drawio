@@ -1,1 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T15:43:31.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" version="14.0.0" etag="W7iiFx2aZWqG93ZerSWr" type="github"><diagram id="kuCDYOujMkA-HMSyn4VC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-14T16:23:13.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="sYBF_L4jJy36O2CwPNEM" version="14.0.0" type="github">
+  <diagram id="kuCDYOujMkA-HMSyn4VC" name="Page-1">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-1" value="FHIR Bridge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-2" value="Datenflussanalyse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-3" value="JSON" style="shape=note;whiteSpace=wrap;size=16;html=1;dropTarget=0;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-4" value="" style="html=1;shape=singleArrow;arrowWidth=0.4;arrowSize=0.4;outlineConnect=0;" vertex="1" parent="4Eg3TUc8c78vZ7O3V5Gd-3">
+          <mxGeometry width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="2" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-5" value="" style="html=1;whiteSpace=wrap;shape=parallelMarker;outlineConnect=0;" vertex="1" parent="4Eg3TUc8c78vZ7O3V5Gd-3">
+          <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="-7" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-6" value="Datenbank" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-7" value="Webserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-9" value="JSON" style="shape=note;whiteSpace=wrap;size=16;html=1;dropTarget=0;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-10" value="" style="html=1;shape=singleArrow;arrowWidth=0.4;arrowSize=0.4;outlineConnect=0;" vertex="1" parent="4Eg3TUc8c78vZ7O3V5Gd-9">
+          <mxGeometry width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="2" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-11" value="" style="html=1;whiteSpace=wrap;shape=parallelMarker;outlineConnect=0;" vertex="1" parent="4Eg3TUc8c78vZ7O3V5Gd-9">
+          <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="-7" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-12" value="Webserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-13" value="Datenbank" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Eg3TUc8c78vZ7O3V5Gd-1" target="4Eg3TUc8c78vZ7O3V5Gd-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="440" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-15" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4Eg3TUc8c78vZ7O3V5Gd-2" target="4Eg3TUc8c78vZ7O3V5Gd-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="120" as="sourcePoint" />
+            <mxPoint x="330" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-16" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=40;exitDy=38;exitPerimeter=0;" edge="1" parent="1" source="4Eg3TUc8c78vZ7O3V5Gd-9" target="4Eg3TUc8c78vZ7O3V5Gd-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="265" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-17" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Eg3TUc8c78vZ7O3V5Gd-12" target="4Eg3TUc8c78vZ7O3V5Gd-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-19" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4Eg3TUc8c78vZ7O3V5Gd-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="657.5" y="476" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-20" value="Anfrage &lt;i&gt;Blutdruck&lt;/i&gt; Mapping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-21" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Eg3TUc8c78vZ7O3V5Gd-7" target="4Eg3TUc8c78vZ7O3V5Gd-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-22" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.017;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4Eg3TUc8c78vZ7O3V5Gd-6" target="4Eg3TUc8c78vZ7O3V5Gd-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-23" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4Eg3TUc8c78vZ7O3V5Gd-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="657.5" y="476" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="510" />
+              <mxPoint x="620" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-24" value="&lt;b&gt;1. Extraktion und Einlesen der Daten (Extraktionskomponente)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-27" value="&lt;b&gt;2. Darstellung und Administration der Daten&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-28" value="Code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-29" value="einlesen und validierung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-31" value="speichern" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-33" value="Mapping &lt;i&gt;Blutdruck&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="460" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eg3TUc8c78vZ7O3V5Gd-34" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#36393d;fillColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="660" y="450" width="40" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
