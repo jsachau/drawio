@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T20:38:03.778Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="zb4mZStRv-818M-VKJsw" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T11:24:30.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="Izh5ONsivRi485UAc04O" version="14.0.1" type="github">
   <diagram id="kuCDYOujMkA-HMSyn4VC" name="Page-1">
-    <mxGraphModel dx="998" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="MKZkuZ-lEbj3lWWw_4s4-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="625" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="MKZkuZ-lEbj3lWWw_4s4-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
+        <mxCell id="MKZkuZ-lEbj3lWWw_4s4-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="435.5" y="665" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="MKZkuZ-lEbj3lWWw_4s4-27" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="MKZkuZ-lEbj3lWWw_4s4-22" target="MKZkuZ-lEbj3lWWw_4s4-25">
@@ -127,7 +127,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MKZkuZ-lEbj3lWWw_4s4-53" value="&lt;h1&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Blutdruck&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;DiastolicBP &lt;b&gt;-&amp;gt;&lt;/b&gt; CompositionBPDia&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;SystolicBP &lt;b&gt;-&amp;gt;&lt;/b&gt; CompositionBPSys&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;overflow=hidden;rounded=0;labelBackgroundColor=#ffffff;sketch=0;shadow=0;whiteSpace=wrap;labelBorderColor=#000000;aspect=fixed;horizontal=1;verticalAlign=middle;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="522" y="598" width="118" height="140.06" as="geometry" />
+          <mxGeometry x="522" y="599" width="118" height="140.06" as="geometry" />
         </mxCell>
         <mxCell id="MKZkuZ-lEbj3lWWw_4s4-57" value="" style="endArrow=classic;html=1;dashed=1;fontFamily=Courier New;fontSize=14;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.035;entryY=0.659;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4Eg3TUc8c78vZ7O3V5Gd-7" target="4Eg3TUc8c78vZ7O3V5Gd-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
