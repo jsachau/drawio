@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T11:07:56.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="qCCHUCBB8cts6rDKlMdg" version="14.1.1" type="github"><diagram id="vKARxAbjLVexTtq7-mZn" name="Page-1">3ZlLc5s8FIZ/jZf1cDHYXvrStF20kzaLfl82GRlkOI1AVIjY7q/vEQhzEZmk0yRm2kUKr2RdnvdIR5Yn7iY5fhAkiz/zkLKJY4XHibudOM5s4eFfJZwqwfP8SogEhJVkN8IN/KJatLRaQEjzTkXJOZOQdcWApykNZEcjQvBDt9qes26vGYmoIdwEhJnqdwhlXKkLZ97oHylEcd2z7S+rkoTUlfVM8piE/NCS3PcTdyM4l9VTctxQptjVXKrPXT1Seh6YoKl8zgduD9/vP9xtVz+Dh+Tr8sduu7u9eadbeSCs0BPeAolSnkvIg5gKLPtGMy6knoM81WAEL9KQqrbtibs+xCDpTUYCVXrASEAtlgnTxboXKiQ9Pjp8+wwFg4nyhEpxwip1JGmMp+7roTHFsbQWtwyp6xEdB9G54QYVPmhaf0DOMchteBqCBJ5enJXjjQyWa8D6lCRFCjlQUaTRxYH1gmtp8rKdt+Q1M3itaUzSkCEsevn4spcj4+UZvL7QHU0PIO7HQcx1R0bMH4gwviNBLMcBrLci7YEt7G2BzQ1gK8aoiGAEsPrr8fK0FgatzzSEezKK9NhfjJfHtTRwXSMqNZ1Ls+qvw4GN622PEvUXg8HcmGeMXD6++sevEUAzT6sGJQYpPq1zKfj9+bsOznIdgsBvVmrhutucF0p/aWBdXu7AchygdRZfHpd5/hoTrpnf5TV/Hi97/mq8zPPX83m9dSjNvCE2r4bGPGiNBM0I2JinhInjM+x2DfgQyXLelbCrhauPn77VIva6aypaOmfSNBN8D6xVq9Vcjz3ilF3SlQ0bzrhAJeWlN9gc60mEQaTWeKC6RH2tzIGAsJUuSCAMVTeDGafJSdYLbQqzpzfR2YC73qu5ax5qDPoZh1SWHXvribdVVPOsusbbw1HhaTtjED9fqSmGIcnjM1BIynu9+v8tJBFOggGGyxVhDGh4JymjOeQoBDzJCmzxDk8RKIsEUsJUwTUVOcfnu42uMc0fopexy7N6Z4T5YuoMrMepb1rm29OF1f43eyULHfOsZVhI03Cl7lmVL4zkOQTlGiJCmnLLS3oE+Z8ya+rqt//Lt7pse9ROli+n1guaAjg9FQCttUND4x63ZwWOmhcioE/mfdOzliNDG2StCcpwB3rojmPIFN3DtYr+dlpfdkPC7y3Navz6U421RkOe3Wuon/jRnYhKoyE0jJxa1fTqfHTAXi+j2P0b6KfG5Xfq40M1giZgzx78RQwPbUNVYtjzcnRNMPs/C14XvMvL3yJWWMG2smNTWKcS3D0w9ssrctzKVTtBLCjsavG2iATs960sVPX3zyeiRS8qrKHj6Z9nHXxtfiypoqP5xcl9/xs=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-27T11:18:43.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="16xaTUD_b50t2ttUFvJc" version="14.1.1" type="github">
+  <diagram id="vKARxAbjLVexTtq7-mZn" name="Page-1">
+    <mxGraphModel dx="485" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-1" value="Diagnostic Reports" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-2" value="Condition" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="250" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-3" value="Encounter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-4" value="Procedure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="250" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-5" value="AdverseEvent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="360" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-6" value="Observation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-7" value="Allergies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="150" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-8" value="Medications" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="250" y="138.2" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-9" value="Patient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40" y="190" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-10" value="CarePlan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="250" y="190" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-12" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="30" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-14" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="70" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-15" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="30" width="450" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-16" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="230" width="450" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-18" value="&lt;i&gt;&lt;b&gt;FHIR&lt;/b&gt; Patienten Profil&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-19" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="1" vertex="1">
+          <mxGeometry x="500" y="178.2" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-20" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.3;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZwWkG_DAqcvmQ9jbDbZS-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469" y="160" as="sourcePoint" />
+            <mxPoint x="519" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="120" />
+              <mxPoint x="519" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwWkG_DAqcvmQ9jbDbZS-29" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Read/wirte&lt;br&gt;using REST&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="100" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EBEgYYdUMe3ZlOHBspKI-1" value="Immunization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EBEgYYdUMe3ZlOHBspKI-2" value="Claim" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="138.2" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
